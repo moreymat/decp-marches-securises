@@ -1,0 +1,5184 @@
+{
+  "marches": [
+    {
+      "id": "202117F000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Fourniture et pose de panneaux occultants décoratifs extérieurs et totem d’entrée de ville  - Mobilier de fleurissement",
+      "codeCPV": "34928400",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2021-12-11",
+      "datePublicationDonnees": "2021-12-07",
+      "montant": "30000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "81809944200019",
+          "typeIdentifiant": "",
+          "denominationSociale": "DECOPUB"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202117F000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Bacs hors-sol mobiles, pots et bacs d’orangerie - Mobilier de fleurissement",
+      "codeCPV": "34928400",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2021-11-10",
+      "datePublicationDonnees": "2021-12-07",
+      "montant": "70000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "33970714300022",
+          "typeIdentifiant": "",
+          "denominationSociale": "AVANCE TECHNOLOGIQUE CHOLETAISE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202117-F00000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": " Suspensions, demi-lunes, balconnières simples et doubles - Mobilier de fleurissement",
+      "codeCPV": "34928400",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2021-11-10",
+      "datePublicationDonnees": "2021-12-07",
+      "montant": "40000.00",
+      "formePrix": "Révisable",
+      "titulaires": [],
+      "modifications": []
+    },
+    {
+      "id": "202117F000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Fourniture et pose de structures en osier - Mobilier de fleurissement",
+      "codeCPV": "34928400",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2021-11-10",
+      "datePublicationDonnees": "2021-12-07",
+      "montant": "40000.00",
+      "formePrix": "Révisable",
+      "titulaires": [],
+      "modifications": []
+    },
+    {
+      "id": "202123F000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Fourniture de murets végétaux",
+      "codeCPV": "34928400-2",
+      "procedure": "Marché négocié sans publicité ni mise en concurrence préalable",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2021-11-08",
+      "datePublicationDonnees": "2021-12-09",
+      "montant": "30500.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "75279580700011",
+          "typeIdentifiant": "",
+          "denominationSociale": "FLORE ANDOLE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202108000000000F",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Tapis - FOURNITURE DE PRODUITS ET MATÉRIELS D'ENTRETIEN",
+      "codeCPV": "39800000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2021-11-08",
+      "datePublicationDonnees": "2021-11-09",
+      "montant": "6000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "40799550500010",
+          "typeIdentifiant": "",
+          "denominationSociale": "PAREDES CSE SAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202108000000000E",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Petit matériel d'entretien divers (marché réservé à une entreprise adaptée ou un établissement d'aide par le travail) - FOURNITURE DE PRODUITS ET MATÉRIELS D'ENTRETIEN",
+      "codeCPV": "39800000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2021-11-08",
+      "datePublicationDonnees": "2021-11-09",
+      "montant": "8000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "40916209600021",
+          "typeIdentifiant": "",
+          "denominationSociale": "ASS POUR INSERTION HANDICAPES THIERACHE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202108000000000D",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Produits d'entretien homologués pour piscine municipale - FOURNITURE DE PRODUITS ET MATÉRIELS D'ENTRETIEN",
+      "codeCPV": "39800000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2021-11-08",
+      "datePublicationDonnees": "2021-11-09",
+      "montant": "10000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "44031947300268",
+          "typeIdentifiant": "",
+          "denominationSociale": "ORAPI HYGIENE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021lhst10000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Matériels d'entretien et de nettoyage cuisine - FOURNITURE DE PRODUITS ET MATÉRIELS D'ENTRETIEN",
+      "codeCPV": "39800000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2021-11-08",
+      "datePublicationDonnees": "2021-11-09",
+      "montant": "30000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "40799550500010",
+          "typeIdentifiant": "",
+          "denominationSociale": "PAREDES CSE SAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202108000000000B",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Produits d'entretien et matériels d'hygiène médicale - FOURNITURE DE PRODUITS ET MATÉRIELS D'ENTRETIEN",
+      "codeCPV": "39800000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2021-11-08",
+      "datePublicationDonnees": "2021-11-09",
+      "montant": "110000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "40799550500010",
+          "typeIdentifiant": "",
+          "denominationSociale": "PAREDES CSE SAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021u1exl0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Assistance à maitrise d'ouvrage pour l'instruction des demandes d'autorisation du droit des sols",
+      "codeCPV": "71410000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2021-06-25",
+      "datePublicationDonnees": "2021-06-29",
+      "montant": "160000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "48777970400039",
+          "typeIdentifiant": "",
+          "denominationSociale": "URBADS"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "avenant 1 supprimant une prestation sans incidence sur le montant maximum annuel",
+          "datePublicationDonneesModification": "2021-09-30",
+          "dureeMois": null,
+          "montant": null,
+          "titulaires": [],
+          "dateSignatureModification": "2021-09-30"
+        },
+        {
+          "objetModification": "Modification du nombre de prestations à la DPGF, sans incidence sur le montant de commande maximum.",
+          "datePublicationDonneesModification": "2022-07-11",
+          "dureeMois": null,
+          "montant": null,
+          "titulaires": [
+            {
+              "id": "48777970400039",
+              "typeIdentifiant": "SIRET",
+              "denominationSociale": "URBADS"
+            }
+          ],
+          "dateSignatureModification": "2022-07-08"
+        }
+      ]
+    },
+    {
+      "id": "202108000000000B",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Produits d'entretien et matériels d'hygiène médicale - FOURNITURE DE PRODUITS ET MATÉRIELS D'ENTRETIEN",
+      "codeCPV": "39800000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2021-11-08",
+      "datePublicationDonnees": "2021-11-09",
+      "montant": "110000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "40799550500010",
+          "typeIdentifiant": "",
+          "denominationSociale": "PAREDES CSE SAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021080000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Matériels d'entretien des écoles et restauration - FOURNITURE DE PRODUITS ET MATÉRIELS D'ENTRETIEN",
+      "codeCPV": "39800000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2021-11-08",
+      "datePublicationDonnees": "2021-11-09",
+      "montant": "24000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "77562768000058",
+          "typeIdentifiant": "",
+          "denominationSociale": "DEVLAEMINCK"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021owpn20000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "DEMOLITION ET REAMENAGEMENT DU SITE DU FOYER EECKMAN",
+      "codeCPV": "45111100",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2021-10-28",
+      "datePublicationDonnees": "2021-10-29",
+      "montant": "32995.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "49378593500013",
+          "typeIdentifiant": "",
+          "denominationSociale": "DEMOLAF"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202112000000000T",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "ETANCHEITE ET ISOLATION - REFECTION DES ETANCHEITES / ISOLATION PLATEFORME DES CUISINES-LAVERIE ECOLE JEAN BAPTISTE LEBAS – 1 RUE GEORGES POTIE – COMMUNE DE CROIX",
+      "codeCPV": "45261210",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "4",
+      "dateNotification": "2021-06-16",
+      "datePublicationDonnees": "2021-06-17",
+      "montant": "32691.29",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "36920001900049",
+          "typeIdentifiant": "",
+          "denominationSociale": "COEXIA ENVELOPPE"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "suppression d’une prestation devenue inutile (fourniture de dalles à poser sur étanchéité)n",
+          "datePublicationDonneesModification": "2021-10-12",
+          "dureeMois": "1",
+          "montant": "31367.57",
+          "titulaires": [
+            {
+              "id": "36920001900049",
+              "typeIdentifiant": "SIRET",
+              "denominationSociale": "COEXIA ENVELOPPE"
+            }
+          ],
+          "dateSignatureModification": "2021-10-12"
+        }
+      ]
+    },
+    {
+      "id": "2021kae4n0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Réfection peintures extérieures sur les menuiseries bois - TRAVAUX REFECTION PEINTURES INTERIEURES ET EXTERIEURES EGLISE SAINT MARTIN A CROIX",
+      "codeCPV": "45442100",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2021-09-15",
+      "datePublicationDonnees": "2021-09-23",
+      "montant": "31.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "88698092900055",
+          "typeIdentifiant": "",
+          "denominationSociale": "Entreprise Jean VANDENDRIESSCHE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021vh18s0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Restauration peintures intérieures des décors muraux - TRAVAUX REFECTION PEINTURES INTERIEURES ET EXTERIEURES EGLISE SAINT MARTIN A CROIX",
+      "codeCPV": "45442100",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2021-09-22",
+      "datePublicationDonnees": "2021-09-23",
+      "montant": "34350.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "48241036200040",
+          "typeIdentifiant": "",
+          "denominationSociale": "MONSIEUR CHRISTOPHE OURDOUILLIE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021umwz40000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Interventions intrusion et gardiennage - Télésurveillance et interventions en cas d'alarme intrusion sur les bâtiments communaux",
+      "codeCPV": "79711000-1",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2021-07-13",
+      "datePublicationDonnees": "2021-08-11",
+      "montant": "80000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "89175283400012",
+          "typeIdentifiant": "",
+          "denominationSociale": "BG2S"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021fuldt0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Télésurveillance  - Télésurveillance et interventions en cas d'alarme intrusion sur les bâtiments communaux",
+      "codeCPV": "79711000-1",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2021-07-13",
+      "datePublicationDonnees": "2021-08-11",
+      "montant": "80000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "33923722400045",
+          "typeIdentifiant": "",
+          "denominationSociale": "SUD-OUEST TELESURVEILLANCE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20211200000000T2",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "VMC CUISINES/LAVERIE - REFECTION DES ETANCHEITES / ISOLATION PLATEFORME DES CUISINES-LAVERIE ECOLE JEAN BAPTISTE LEBAS – 1 RUE GEORGES POTIE – COMMUNE DE CROIX",
+      "codeCPV": "45331200",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "4",
+      "dateNotification": "2021-06-15",
+      "datePublicationDonnees": "2021-06-17",
+      "montant": "12978.34",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "80449254400023",
+          "typeIdentifiant": "",
+          "denominationSociale": "CVCA ENERGIES"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202106-T00000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Réfection étanchéité et isolation - Réfection des étanchéités et isolation / remplacement de la sécurité collective salle DEDECKER",
+      "codeCPV": "45454100",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "4",
+      "dateNotification": "2021-06-08",
+      "datePublicationDonnees": "2021-06-11",
+      "montant": "160796.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "68204083701638",
+          "typeIdentifiant": "",
+          "denominationSociale": "SMAC"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "AUGMENTATION EPAISSEUR ISOLANT",
+          "datePublicationDonneesModification": "2021-07-13",
+          "dureeMois": "4",
+          "montant": "167146.26",
+          "titulaires": [],
+          "dateSignatureModification": "2021-07-13"
+        },
+        {
+          "objetModification": "AJOUT ECHELLE SECURITE   CACHE METALLIQUE",
+          "datePublicationDonneesModification": "2021-10-14",
+          "dureeMois": "1",
+          "montant": "176880.26",
+          "titulaires": [],
+          "dateSignatureModification": "2021-10-14"
+        }
+      ]
+    },
+    {
+      "id": "202106-T0000000B",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Remplacement de la sécurité collective - Réfection des étanchéités et isolation / remplacement de la sécurité collective salle DEDECKER",
+      "codeCPV": "45454100",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "4",
+      "dateNotification": "2021-06-08",
+      "datePublicationDonnees": "2021-06-11",
+      "montant": "14006.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "68204083701638",
+          "typeIdentifiant": "",
+          "denominationSociale": "SMAC"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021iak880000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Exploitation des installations CVC des bâtiments communaux de la Ville de CROIX",
+      "codeCPV": "50700000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "96",
+      "dateNotification": "2021-06-02",
+      "datePublicationDonnees": "2021-06-08",
+      "montant": "3322056.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "45650053700018",
+          "typeIdentifiant": "",
+          "denominationSociale": "DALKIA"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021jxl3s0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "ANALYSE DES BESOINS SOCIAUX POUR LE TERRITOIRE DE LA VILLE DE CROIX",
+      "codeCPV": "79315000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2021-05-27",
+      "datePublicationDonnees": "2021-05-28",
+      "montant": "10200.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "40490226400039",
+          "typeIdentifiant": "",
+          "denominationSociale": "COMPAS-TIS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021a9u3i0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "EQUIPEMENT DE CAVURNES SUPPLEMENTAIRES AU JARDIN DES MEMOIRES",
+      "codeCPV": "45112710",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "cimetière municipal"
+      },
+      "dureeMois": "3",
+      "dateNotification": "2021-05-27",
+      "datePublicationDonnees": "2021-05-27",
+      "montant": "33520.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "38990507600037",
+          "typeIdentifiant": "",
+          "denominationSociale": "INOVERT"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021elvv30000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Refonte du site Internet de la Ville de Croix, hébergement et maintenance",
+      "codeCPV": "72400000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "76",
+      "dateNotification": "2021-05-05",
+      "datePublicationDonnees": "2021-05-05",
+      "montant": "12480.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "50167646400016",
+          "typeIdentifiant": "",
+          "denominationSociale": "SAM"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021go1pw0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Achat d'un logiciel en restauration collective",
+      "codeCPV": "72268000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2021-04-14",
+      "datePublicationDonnees": "2021-04-23",
+      "montant": "39500.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "75085264200032",
+          "typeIdentifiant": "",
+          "denominationSociale": "EEWORX"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20213chdo0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Maintien de la propreté urbaine",
+      "codeCPV": "90600000-3",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2021-04-14",
+      "datePublicationDonnees": "2021-04-16",
+      "montant": "1200000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "45550145200102",
+          "typeIdentifiant": "",
+          "denominationSociale": "ESTERRA"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021qxs980000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Location de matériel de sonorisation et d'éclairage",
+      "codeCPV": "32342410",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "18",
+      "dateNotification": "2021-03-29",
+      "datePublicationDonnees": "2021-04-08",
+      "montant": "210000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "34244066600051",
+          "typeIdentifiant": "",
+          "denominationSociale": "AXYOM"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021zuh8z0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Fourniture, pose et maintenance de défibrillateurs",
+      "codeCPV": "33182100-0",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": ""
+      },
+      "dureeMois": "36",
+      "dateNotification": "2021-03-19",
+      "datePublicationDonnees": "2021-03-19",
+      "montant": "105000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "50034216700037",
+          "typeIdentifiant": "",
+          "denominationSociale": "D-SECURITE GROUPE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021040000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "FERMETURE DES PARCS ET JARDINS, CIMETIERE ET HOTEL DE VILLE SITUES SUR LA COMMUNE DE CROIX",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "12",
+      "dateNotification": "2021-02-11",
+      "datePublicationDonnees": "2021-03-04",
+      "montant": "0.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "83017861200016",
+          "typeIdentifiant": "",
+          "denominationSociale": "PRIDE PROTECTION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202021000000000s",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "ENTRETIEN DES TERRAINS SYNTHETIQUES DE FOOTBALL",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2021-02-05",
+      "datePublicationDonnees": "2021-02-26",
+      "montant": "39200.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "31611247300038",
+          "typeIdentifiant": "",
+          "denominationSociale": "SOCIETE REGIONALE D\\'ESPACES VERTS ET D\\'ENVIRONNEMENT EN ABREGE \\\"S.O.R.E.V.E.\\\""
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021hfzc30000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Remplacement éclairage piscine",
+      "codeCPV": "",
+      "procedure": "",
+      "lieuExecution": {
+        "code": "",
+        "typeCode": "",
+        "nom ": ""
+      },
+      "dureeMois": "1",
+      "dateNotification": "2021-01-15",
+      "datePublicationDonnees": "2021-02-09",
+      "montant": "28442.86",
+      "formePrix": "",
+      "titulaires": [
+        {
+          "id": "39938958400042",
+          "typeIdentifiant": "",
+          "denominationSociale": "DEVELOP ELEC"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021iu7ns0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "outillage - Fourniture d'outillage et de plaquettes forestières",
+      "codeCPV": "44500000-5",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2021-02-08",
+      "datePublicationDonnees": "2021-02-09",
+      "montant": "0.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "58211187800077",
+          "typeIdentifiant": "",
+          "denominationSociale": "SOCIETE D'EQUIPEMENT POUR L'ENVIRONNEMENT"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021d5b7x0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Uniforme Police Municipale  - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "6000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "32832007200130",
+          "typeIdentifiant": "",
+          "denominationSociale": "SENTINEL"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021kkxcz0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Uniforme ASVP \"brigade propreté\" - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "1500.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "32832007200130",
+          "typeIdentifiant": "",
+          "denominationSociale": "SENTINEL"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021wrwr90000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Police Municipale : Tenue de cérémonie  - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "2000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "32832007200130",
+          "typeIdentifiant": "",
+          "denominationSociale": "SENTINEL"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021al12w0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Police Municipale : Gilet par balle (GPB) - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "2500.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "32832007200130",
+          "typeIdentifiant": "",
+          "denominationSociale": "SENTINEL"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021cefaf0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Police Municipale : Accessoires de sécurité - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "1000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "32832007200130",
+          "typeIdentifiant": "",
+          "denominationSociale": "SENTINEL"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021v6icj0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Police Municipale : Accessoires Moto - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "3000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "44448404200023",
+          "typeIdentifiant": "",
+          "denominationSociale": "G.K. PROFESSIONAL"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021glld70000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Vêtements de haute visibilité - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "10000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "33990152200047",
+          "typeIdentifiant": "",
+          "denominationSociale": "GEDIVEPRO"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20211l2q20000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Blousons, parkas et polaires  - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "10000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "33990152200047",
+          "typeIdentifiant": "",
+          "denominationSociale": "GEDIVEPRO"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021l7rio0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Vêtements de cuisine - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "10000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "33990152200047",
+          "typeIdentifiant": "",
+          "denominationSociale": "GEDIVEPRO"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021x52u40000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Blouses et sabots  - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "10000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "33990152200047",
+          "typeIdentifiant": "",
+          "denominationSociale": "GEDIVEPRO"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021h8xzg0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Pantalons, teeshirts et polos de travail - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "10000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "33990152200047",
+          "typeIdentifiant": "",
+          "denominationSociale": "GEDIVEPRO"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021h7v3i0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Équipements de protection individuelle - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "15000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "47903662600022",
+          "typeIdentifiant": "",
+          "denominationSociale": "PROTEC NORD"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021cx56w0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Chaussures de sécurité à usage professionnel  - Fournitures de vêtements de travail et d'équipements de protection individuelle pour les agents des services de la ville de Croix",
+      "codeCPV": "18100000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-18",
+      "datePublicationDonnees": "2021-01-18",
+      "montant": "15000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "33990152200047",
+          "typeIdentifiant": "",
+          "denominationSociale": "GEDIVEPRO"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021hw27g0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Fournitures et plantations d'arbres",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "12",
+      "dateNotification": "2020-12-15",
+      "datePublicationDonnees": "2021-01-15",
+      "montant": "150000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "38990507600037",
+          "typeIdentifiant": "",
+          "denominationSociale": "INOVERT"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2021mdxsc0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Prestations de services en assurances - responsabilité civile pour la Ville et le CCAS de CROIX",
+      "codeCPV": "66516 000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "60",
+      "dateNotification": "2020-12-29",
+      "datePublicationDonnees": "2021-01-04",
+      "montant": "40250.75",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "34153981500017",
+          "typeIdentifiant": "",
+          "denominationSociale": "PARIS NORD ASSURANCES SERVICES"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202008000000000S",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché subséquent",
+      "objet": "PROGRAMMATION URBAINE - ACCORD CADRE RELATIF AUX MISSION D'ASSISTANCE A MAITRISE D'OUVRAGE (AMO) POUR LA REALISATION D'ETUDES PRE-OPERATIONNELLES",
+      "codeCPV": "71356200-0 ",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-16",
+      "datePublicationDonnees": "2020-12-31",
+      "montant": "1200000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "80303451100011",
+          "typeIdentifiant": "",
+          "denominationSociale": "ALTER EMO"
+        },
+        {
+          "id": "47782926100031",
+          "typeIdentifiant": "",
+          "denominationSociale": "INTERLAND"
+        },
+        {
+          "id": "52513299900042",
+          "typeIdentifiant": "",
+          "denominationSociale": "ATELIER MA ARCHITECTURE ET URBANISME"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202008000000000S",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché subséquent",
+      "objet": "PROGRAMMATION BATIMENTS ET EQUIPEMENTS PUBLICS - ACCORD CADRE RELATIF AUX MISSION D'ASSISTANCE A MAITRISE D'OUVRAGE (AMO) POUR LA REALISATION D'ETUDES PRE-OPERATIONNELLES",
+      "codeCPV": "71356200-0 ",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-12-15",
+      "datePublicationDonnees": "2020-12-31",
+      "montant": "1200000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "80303451100011",
+          "typeIdentifiant": "",
+          "denominationSociale": "ALTER EMO"
+        },
+        {
+          "id": "50942049300033",
+          "typeIdentifiant": "",
+          "denominationSociale": "IMPACT CONSEILS & INGENIERIE"
+        },
+        {
+          "id": "42154744900023",
+          "typeIdentifiant": "",
+          "denominationSociale": "VERDI CONSEIL NORD DE FRANCE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "1914joepc0000002",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Services d'assurances Tous risques chantier  RC maître d'ouvrage CPV 66513200-1 [Services d’assurances tous risques chantier] - Prestations d'assurances pour la restructuration du Groupe Scolaire Jean Zay",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-08-12",
+      "datePublicationDonnees": "2020-12-15",
+      "montant": "12173.53",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "84036451700010",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ARTEC"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Prolongation des garanties en période de travaux du 16/07/2020 jusqu’à la date de réception, et au plus tard le 28/02/2021 inclus",
+          "datePublicationDonneesModification": "2020-12-15",
+          "dureeMois": null,
+          "montant": "6.00",
+          "titulaires": [],
+          "dateSignatureModification": "2020-11-24"
+        }
+      ]
+    },
+    {
+      "id": "202009000000000B",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "STATION DE TRAVAIL - RENOUVELLEMENT DU MATERIEL INFORMATIQUE DES SERVICES MUNICIPAUX  DE LA VILLE DE CROIX",
+      "codeCPV": "30213000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "12",
+      "dateNotification": "2020-11-17",
+      "datePublicationDonnees": "2020-11-30",
+      "montant": "25000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "40535140400042",
+          "typeIdentifiant": "",
+          "denominationSociale": "PROMATEC"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "202009000000000A",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "ACQUISITION D'ORDINATEURS DE BUREAU, PC PORTABLES, ECRANS - RENOUVELLEMENT DU MATERIEL INFORMATIQUE DES SERVICES MUNICIPAUX  DE LA VILLE DE CROIX",
+      "codeCPV": "30213000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "12",
+      "dateNotification": "2020-11-17",
+      "datePublicationDonnees": "2020-11-30",
+      "montant": "188000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "32410382900721",
+          "typeIdentifiant": "",
+          "denominationSociale": "SPIE INFOSERVICES"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2020qmezv0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "",
+      "objet": "Portails - Vérifications règlementaires périodiques et techniques des bâtiments de la Ville de CROIX et de la résidence Van Gogh",
+      "codeCPV": "71315400-3 ",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-11-25",
+      "datePublicationDonnees": "2020-11-25",
+      "montant": "6000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "41967142500017",
+          "typeIdentifiant": "",
+          "denominationSociale": "APAVE NORD-OUEST SAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20204ktyd0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Travaux de reprise des sépultures et transfert pour crémation - Travaux de reprise des sépultures et transfert pour crémation",
+      "codeCPV": "45215400-1",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2020-11-10",
+      "datePublicationDonnees": "2020-11-18",
+      "montant": "110000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "48379557100015",
+          "typeIdentifiant": "",
+          "denominationSociale": "GEST CIM"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2020b1xfr0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Appareils de cuisson et grandes cuisines",
+      "codeCPV": "71315400-3 ",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-10-23",
+      "datePublicationDonnees": "2020-11-03",
+      "montant": "10000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "83409669500020",
+          "typeIdentifiant": "",
+          "denominationSociale": "SOCOTEC EQUIPEMENTS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2020yuvdq0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Moyens de secours",
+      "codeCPV": "71315400-3 ",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-10-23",
+      "datePublicationDonnees": "2020-11-03",
+      "montant": "48000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "83409669500020",
+          "typeIdentifiant": "",
+          "denominationSociale": "SOCOTEC EQUIPEMENTS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2020lwys40000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Ascenseurs et monte PMR",
+      "codeCPV": "71315400-3 ",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-10-23",
+      "datePublicationDonnees": "2020-11-03",
+      "montant": "16000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "79018467500698",
+          "typeIdentifiant": "",
+          "denominationSociale": "BUREAU VERITAS EXPLOITATION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2020k14sp0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Installations thermiques",
+      "codeCPV": "71315400-3 ",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-10-23",
+      "datePublicationDonnees": "2020-11-03",
+      "montant": "24000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "79018467500698",
+          "typeIdentifiant": "",
+          "denominationSociale": "BUREAU VERITAS EXPLOITATION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Maintenance d'un système de vidéo protection et déplacement de caméras dites nomades et des radars pédagogiques solaires",
+      "codeCPV": "50324100",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-06-10",
+      "datePublicationDonnees": "2020-06-11",
+      "montant": "120000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "05680065901468",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SNEF"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Avenant 1 augmentant le montant maximum annuel initial de 3 000€",
+          "datePublicationDonneesModification": "2022-01-21",
+          "dureeMois": null,
+          "montant": "33000.00",
+          "titulaires": [],
+          "dateSignatureModification": "2022-01-06"
+        }
+      ]
+    },
+    {
+      "id": "2019050000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Modules préfabriqués sur le site de l'Ecole Nadaud",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "6",
+      "dateNotification": "2019-05-14",
+      "datePublicationDonnees": "2020-10-08",
+      "montant": "9348.67",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "78501422600035",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "BATILOC"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Prolongation de la durée de location",
+          "datePublicationDonneesModification": "2020-10-08",
+          "dureeMois": "6",
+          "montant": "9348.67",
+          "titulaires": [],
+          "dateSignatureModification": "2020-06-29"
+        },
+        {
+          "objetModification": "Prolongation de la location jusqu'au 10 avril 2021",
+          "datePublicationDonneesModification": "2020-12-29",
+          "dureeMois": "4",
+          "montant": "1533.33",
+          "titulaires": [],
+          "dateSignatureModification": "2020-12-29"
+        },
+        {
+          "objetModification": "Prolongation de la durée de location",
+          "datePublicationDonneesModification": "2021-04-12",
+          "dureeMois": "3",
+          "montant": "12262.00",
+          "titulaires": [],
+          "dateSignatureModification": "2021-04-12"
+        }
+      ]
+    },
+    {
+      "id": "2019050000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Modules préfabriqués sur le site des écoles La Fontaine/Malraux",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "",
+        "nom ": ""
+      },
+      "dureeMois": "6",
+      "dateNotification": "2019-05-14",
+      "datePublicationDonnees": "2020-10-08",
+      "montant": "61184.35",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "78501422600035",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "BATILOC"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Prolongation de la location",
+          "datePublicationDonneesModification": "2020-10-08",
+          "dureeMois": "6",
+          "montant": "61184.35",
+          "titulaires": [],
+          "dateSignatureModification": "2020-06-29"
+        },
+        {
+          "objetModification": "Prolongation de la location jusqu'au 10 avril 2021",
+          "datePublicationDonneesModification": "2020-12-29",
+          "dureeMois": "4",
+          "montant": "7199.95",
+          "titulaires": [],
+          "dateSignatureModification": "2020-12-29"
+        },
+        {
+          "objetModification": "Prolongation de la durée de location",
+          "datePublicationDonneesModification": "2021-04-12",
+          "dureeMois": "3",
+          "montant": "74864.30",
+          "titulaires": [],
+          "dateSignatureModification": "2021-04-12"
+        }
+      ]
+    },
+    {
+      "id": "2020nakom0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Installations électriques",
+      "codeCPV": "71315400-3 ",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-10-27",
+      "datePublicationDonnees": "2020-11-03",
+      "montant": "60000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "49788848700020",
+          "typeIdentifiant": "",
+          "denominationSociale": "INOVI ATELIER CONSEIL"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2020cwn9u0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Fourniture de fleurs coupées, plantes vertes et fleuries",
+      "codeCPV": "",
+      "procedure": "",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2020-07-15",
+      "datePublicationDonnees": "2020-07-31",
+      "montant": "30000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "39980705600011",
+          "typeIdentifiant": "",
+          "denominationSociale": "DEPRINCE ANDRE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20202l8yw0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Accueils de loisirs sans hébergement - car à disposition - excursions - transports d'enfants et d'adolescents",
+      "codeCPV": "60112000-6",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-07-03",
+      "datePublicationDonnees": "2020-07-08",
+      "montant": "100000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "45850223400040",
+          "typeIdentifiant": "",
+          "denominationSociale": "MARIOT GAMELIN"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Eclairage sportif ",
+      "codeCPV": "45236119",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "3",
+      "dateNotification": "2019-06-12",
+      "datePublicationDonnees": "2019-06-13",
+      "montant": "91890.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "97120154600241",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SATELEC"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Electricité-Chauffage ",
+      "codeCPV": "45262522",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-06-04",
+      "datePublicationDonnees": "2019-06-06",
+      "montant": "14601.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "39938958400042",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "DEVELOP ELEC"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Droit public général, urbanisme et aménagement ",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2019-07-26",
+      "datePublicationDonnees": "2019-07-29",
+      "montant": "90000.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "42939154300031",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SARTOR LONQUE SALALO ASSOCIES"
+        },
+        {
+          "id": "50121339100029",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "MANUEL GROS HELOISE HICTER ET ASSOCIES"
+        },
+        {
+          "id": "43227207800028",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "CLAISSE ET ASSOCIES"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Droit bancaire et financier ",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2019-07-26",
+      "datePublicationDonnees": "2019-07-29",
+      "montant": "75000.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "44754323200022",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "CABINET HENRI ABECASSIS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "0000000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "PEINTURE SOL SOUPLE",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-05-20",
+      "datePublicationDonnees": "2019-05-23",
+      "montant": "153758.65",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "30099045400021",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SOCIETE DE PEINTURE DECORATION ENTRETIEN"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Travaux en plus-value sur le portail d'entrée :   1 680,00€ HT",
+          "datePublicationDonneesModification": "2021-07-13",
+          "dureeMois": null,
+          "montant": "155438.65",
+          "titulaires": [],
+          "dateSignatureModification": "2021-07-13"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Restructuration et extension du groupe scolaire Jean Zay. Deuxième procédure consécutive à un premier appel d'offres ouvert déclaré sans suite pour le lot 11 ",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Ecole Jean Zay"
+      },
+      "dureeMois": "12",
+      "dateNotification": "2019-07-15",
+      "datePublicationDonnees": "2019-07-16",
+      "montant": "58300.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "54210780001137",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "OTIS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "201934000000004",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "voirie et équipements divers - désherbage par méthode alternative ",
+      "codeCPV": "77310000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-02-26",
+      "datePublicationDonnees": "2020-03-16",
+      "montant": "200000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "82905012900016",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "AZURIAL ESPACES VERTS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "REFECTION DES MENUISERIES EXTERIEURES BOIS ET VOLETS ",
+      "codeCPV": "45421150",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "1",
+      "dateNotification": "2019-06-27",
+      "datePublicationDonnees": "2019-07-02",
+      "montant": "36601.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "35409156300016",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SARL DELAHOUSSE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Matériels d'entretien et de nettoyage cuisines ",
+      "codeCPV": "39830000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2019-07-15",
+      "datePublicationDonnees": "2019-07-16",
+      "montant": "30000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "40799550500010",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "PAREDES CSE SAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Tapis ",
+      "codeCPV": "39830000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2019-07-15",
+      "datePublicationDonnees": "2019-07-16",
+      "montant": "6000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "40799550500010",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "PAREDES CSE SAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019340000000003",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "cimetière ",
+      "codeCPV": "77310000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-02-26",
+      "datePublicationDonnees": "2020-03-17",
+      "montant": "400000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "33960966101160",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "IDVERDE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192019-280001",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Fournitures diverses de bureau ",
+      "codeCPV": "30190000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2020-02-21",
+      "datePublicationDonnees": "2020-03-06",
+      "montant": "90000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "44505049500024",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "Autour du bureau"
+        },
+        {
+          "id": "44505049500032",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "ADB"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "0000000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "CHAUFFAGE VENTILATION PLOMBERIE SANITAIRE",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "9",
+      "dateNotification": "2019-05-17",
+      "datePublicationDonnees": "2019-05-23",
+      "montant": "594232.88",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "47678065500033",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "LEFEBVRE ET GENTILHOMME"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "VRD Maçonnerie ",
+      "codeCPV": "45262522",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-06-04",
+      "datePublicationDonnees": "2019-06-06",
+      "montant": "35410.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "32416570300020",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "VANMARCKE SA"
+        },
+        {
+          "id": "32416570300020",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "VANMARCKE SA"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "201920193200001",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Voirie réseaux divers",
+      "codeCPV": "45112711",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "23",
+      "dateNotification": "2020-02-06",
+      "datePublicationDonnees": "2020-02-17",
+      "montant": "1689376.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "31611247300038",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SOCIETE REGIONALE D'ESPACES VERTS ET D'ENVIRONNEMENT EN ABREGE \"S.O.R.E.V.E.\""
+        },
+        {
+          "id": "82141158400021",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SN JARBEAU"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Avenant 1:nPrestations à supprimer et travaux supplémentairesnMoins-value de 133,70€ HT",
+          "datePublicationDonneesModification": "2022-03-25",
+          "dureeMois": null,
+          "montant": "1689242.31",
+          "titulaires": [],
+          "dateSignatureModification": "2022-03-22"
+        }
+      ]
+    },
+    {
+      "id": "20192019-1800000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "ASSISTANCE A MAÎTRISE d'OUVRAGE POUR L'INSTRUCTION  DES  PERMIS DE CONSTRUIRE ET DES AUTRES PIÈCES DE L'URBANISME RÉGLEMENTAIRE ",
+      "codeCPV": "71210000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2019-06-27",
+      "datePublicationDonnees": "2019-06-27",
+      "montant": "160000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "48777970400039",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "URBADS"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Augmentation montant initial",
+          "datePublicationDonneesModification": "2021-06-24",
+          "dureeMois": "1",
+          "montant": "172000.00",
+          "titulaires": [
+            {
+              "id": "48777970400039",
+              "typeIdentifiant": "SIRET",
+              "denominationSociale": "URBADS"
+            }
+          ],
+          "dateSignatureModification": "2021-06-23"
+        }
+      ]
+    },
+    {
+      "id": "201920193200004",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Passerelles et ferronneries",
+      "codeCPV": "45112711",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "5",
+      "dateNotification": "2020-02-06",
+      "datePublicationDonnees": "2020-02-17",
+      "montant": "99192.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "40370123800012",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "BOIS ET LOISIRS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Nettoyage des vitres de 43 bâtiments communaux",
+      "codeCPV": "90911200",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "",
+        "typeCode": "",
+        "nom ": ""
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-01-31",
+      "datePublicationDonnees": "2020-02-04",
+      "montant": "20000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "51988179100072",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "AZURIAL"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "0000000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "CLOISON FAUX PLAFOND",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-05-17",
+      "datePublicationDonnees": "2019-05-23",
+      "montant": "252520.65",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "81211764600024",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "NOUVEAUX ETABLISSEMENTS MODULE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Banquets ",
+      "codeCPV": "55321000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "croix",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-06-13",
+      "datePublicationDonnees": "2019-06-17",
+      "montant": "0.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "47718101000091",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "API RESTAURATION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192018-33A0000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Linge plat ",
+      "codeCPV": "19231000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2019-02-28",
+      "datePublicationDonnees": "2019-03-27",
+      "montant": "90000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "88558103300184",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "REGIONALE LOCATION ET SERVICES TEXTILE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "201918-270000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Maintenance et réparation de l'outillage et du matériel du \"pôle qualité de l'espace public\" ",
+      "codeCPV": "50222000",
+      "procedure": "Marché négocié sans publicité ni mise en concurrence préalable",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-04-04",
+      "datePublicationDonnees": "2019-04-11",
+      "montant": "160000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "32407839300026",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ETS LAMBIN"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Peinture, sol souple ",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "1",
+      "dateNotification": "2019-06-27",
+      "datePublicationDonnees": "2019-07-01",
+      "montant": "5100.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "43958181000041",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "DFINITIONS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Achat d'un logiciel de gestion pour le centre communal d'action sociale de Croix",
+      "codeCPV": "48000000-8",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": ""
+      },
+      "dureeMois": "36",
+      "dateNotification": "2019-12-30",
+      "datePublicationDonnees": "2020-02-17",
+      "montant": "30285.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "35142130000036",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "SAS ARPEGE"
+        },
+        {
+          "id": "35142130000036",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "SAS ARPEGE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019201903E00000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Prestations protocolaires et traiteur ",
+      "codeCPV": "55520000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "croix",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-06-13",
+      "datePublicationDonnees": "2019-06-17",
+      "montant": "0.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "47718101000091",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "API RESTAURATION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Fourniture d'électricité pour la Ville de Croix ",
+      "codeCPV": "31682000-0",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2019-11-25",
+      "datePublicationDonnees": "2020-01-03",
+      "montant": "304804.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "55208131789276",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "EDF"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Sortie de site du foyer Van Gogh",
+          "datePublicationDonneesModification": "2020-03-31",
+          "dureeMois": null,
+          "montant": null,
+          "titulaires": [],
+          "dateSignatureModification": "2020-03-31"
+        },
+        {
+          "objetModification": "Prolongation d'une semaine du marché pour raisons administratives",
+          "datePublicationDonneesModification": "2021-04-28",
+          "dureeMois": null,
+          "montant": null,
+          "titulaires": [],
+          "dateSignatureModification": "2021-04-28"
+        },
+        {
+          "objetModification": "Prolongation de 13 mois de la durée du marché ",
+          "datePublicationDonneesModification": "2022-01-21",
+          "dureeMois": "37",
+          "montant": null,
+          "titulaires": [],
+          "dateSignatureModification": "2021-12-09"
+        }
+      ]
+    },
+    {
+      "id": "z2ypc00000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Marché",
+      "objet": "Transports extra-muros d'enfants et d'adolescents (du lundi au samedi)",
+      "codeCPV": "60112000-6",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-07-03",
+      "datePublicationDonnees": "2020-07-08",
+      "montant": "60000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "35059214300027",
+          "typeIdentifiant": "",
+          "denominationSociale": "DELTOUR AUTOCARS ET VOYAGES SARL"
+        },
+        {
+          "id": "32441823500010",
+          "typeIdentifiant": "",
+          "denominationSociale": "Cars Delgrange"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192018-28B0000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "CVC Plomberie",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-03-22",
+      "datePublicationDonnees": "2019-03-27",
+      "montant": "56122.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "47678065500033",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "LEFEBVRE ET GENTILHOMME"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Prestations de location, pose et dépose et maintenance des illuminations de fêtes de fin d'année de la Ville de CROIX. ",
+      "codeCPV": "45316000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-10-03",
+      "datePublicationDonnees": "2019-10-09",
+      "montant": "200000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "34382978400010",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "BLACHERE ILLUMINATION"
+        },
+        {
+          "id": "05680065900858",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SNEF"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192018-3200000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Prestations de maintenance des aires de jeux ",
+      "codeCPV": "37535200",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-02-06",
+      "datePublicationDonnees": "2019-02-19",
+      "montant": "180000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "39058088400034",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ECOGOM"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019201903B00000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Restauration petite enfance ",
+      "codeCPV": "15894210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "croix",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-06-13",
+      "datePublicationDonnees": "2019-06-17",
+      "montant": "0.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "47718101000091",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "API RESTAURATION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Terrain synthétique ",
+      "codeCPV": "45236119",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "4",
+      "dateNotification": "2019-06-13",
+      "datePublicationDonnees": "2019-06-13",
+      "montant": "474945.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "31611247300038",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SOCIETE REGIONALE D'ESPACES VERTS ET D'ENVIRONNEMENT EN ABREGE \"S.O.R.E.V.E.\""
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192018-28E0000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Couverture Charpente Isolation ",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "3",
+      "dateNotification": "2019-03-22",
+      "datePublicationDonnees": "2019-03-27",
+      "montant": "215595.25",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "78378957100032",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ETABLISSEMENTS RENE DELPORTE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Droit privé ",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2019-07-26",
+      "datePublicationDonnees": "2019-07-29",
+      "montant": "60000.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "42939154300031",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SARTOR LONQUE SALALO ASSOCIES"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "ELECTRICITE COURANT FORT COURANT FAIBLE ",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "14",
+      "dateNotification": "2019-05-17",
+      "datePublicationDonnees": "2019-05-23",
+      "montant": "200417.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "39938958400042",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "DEVELOP ELEC"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Travaux supplémentaires pour l'alimentation des stores :   5 553,33 € HT",
+          "datePublicationDonneesModification": "2021-05-04",
+          "dureeMois": null,
+          "montant": "205.00",
+          "titulaires": [],
+          "dateSignatureModification": "2021-05-03"
+        },
+        {
+          "objetModification": "Avenant 2 plus-value au lot 09n- Eclairage casquette maternelle : 514,20 euros HTn- Raccordement informatique des câbles des étages de la primaire : 876,00 euros HTn- Eclairage vide-sanitaire cuisine : 868,80 euros HT",
+          "datePublicationDonneesModification": "2021-08-02",
+          "dureeMois": "16",
+          "montant": "208136.43",
+          "titulaires": [],
+          "dateSignatureModification": "2021-08-02"
+        }
+      ]
+    },
+    {
+      "id": "20208ikvt0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Tranchée commune, éclairage public et vidéosurveillance",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "4",
+      "dateNotification": "2020-02-19",
+      "datePublicationDonnees": "2020-05-06",
+      "montant": "66770.16",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "97120154600571",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SATELEC"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "ajustements en cours de chantier (installation candélabre, enterrement des chambres en espaces verts, équipement de tampon fonte dans les chambres en cheminement et divers travaux d’éclairage en vue de respecter 20 lux moyen au niveau du parvis de l’école",
+          "datePublicationDonneesModification": "2020-12-17",
+          "dureeMois": "4",
+          "montant": "60636.50",
+          "titulaires": [
+            {
+              "id": "97120154600571",
+              "typeIdentifiant": "SIRET",
+              "denominationSociale": "SATELEC"
+            }
+          ],
+          "dateSignatureModification": "2020-12-17"
+        }
+      ]
+    },
+    {
+      "id": "000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "EFFACEMENT DES RÉSEAUX AÉRIENS",
+      "codeCPV": "32400000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "5",
+      "dateNotification": "2019-06-04",
+      "datePublicationDonnees": "2019-06-06",
+      "montant": "262538.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "97120154600241",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SATELEC"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019201917000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Location de matériel de sonorisation, d'éclairage, de matériel scénique et l'intervention d'un technicien pour les manifestations de la ville de Croix ",
+      "codeCPV": "32342410",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "18",
+      "dateNotification": "2019-07-19",
+      "datePublicationDonnees": "2019-07-23",
+      "montant": "210000.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "34244066600069",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "AXYOM"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Produits d'entretien et matériel d'hygiène médicale ",
+      "codeCPV": "39830000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2019-07-15",
+      "datePublicationDonnees": "2019-07-16",
+      "montant": "104000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "40799550500010",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "PAREDES CSE SAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Petit matériel d'entretien divers ",
+      "codeCPV": "39830000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2019-07-15",
+      "datePublicationDonnees": "2019-07-16",
+      "montant": "8000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "40916209600021",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ASS POUR INSERTION HANDICAPES THIERACHE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019340000000002",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "écoles, complexe sportif Henri Seigneur et maison de la Mackellerie ",
+      "codeCPV": "77310000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-02-26",
+      "datePublicationDonnees": "2020-03-17",
+      "montant": "200000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "33960966101160",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "IDVERDE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "x24410000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Papier d'impression et de reprographie laser et jet d'encre ",
+      "codeCPV": "30190000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2020-02-18",
+      "datePublicationDonnees": "2020-03-06",
+      "montant": "90000.00",
+      "formePrix": "Révisable",
+      "titulaires": [],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Entretien des arbres de parc, squares, écoles et divers espaces publics ",
+      "codeCPV": "77340000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-07-05",
+      "datePublicationDonnees": "2019-07-08",
+      "montant": "21500.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "38747285500023",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "PERILHON ELAGAGE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Serrurerie ",
+      "codeCPV": "45262522",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-06-04",
+      "datePublicationDonnees": "2019-06-06",
+      "montant": "20065.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "48823291900057",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "EURL MSCM"
+        },
+        {
+          "id": "48823291900057",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "EURL MSCM"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019201904b00000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "COUVERTURE ZINC ETANCHEITE",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "5",
+      "dateNotification": "2019-05-17",
+      "datePublicationDonnees": "2019-05-23",
+      "montant": "645288.26",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "36920001900049",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "COEXIA ENVELOPPE"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "augmentation de la section du chéneau le long du préau d’entrée",
+          "datePublicationDonneesModification": "2020-02-11",
+          "dureeMois": null,
+          "montant": "2615.76",
+          "titulaires": [],
+          "dateSignatureModification": "2020-02-11"
+        },
+        {
+          "objetModification": "réalisation de l’étanchéité de la talonnette béton",
+          "datePublicationDonneesModification": "2020-06-04",
+          "dureeMois": null,
+          "montant": "3672.50",
+          "titulaires": [],
+          "dateSignatureModification": "2020-06-04"
+        },
+        {
+          "objetModification": "- renforcement de la charpente existante de la trémie ascenseur\n- fourniture et pose d'une étanchéité pied de façade",
+          "datePublicationDonneesModification": "2020-03-01",
+          "dureeMois": null,
+          "montant": "4243.66",
+          "titulaires": [],
+          "dateSignatureModification": "2020-03-01"
+        },
+        {
+          "objetModification": "Avenant 4 au lot 02 (3 août 2021) - fourniture et pose d'une tôle pliée pour 1 576,12 euros HT",
+          "datePublicationDonneesModification": "2021-08-03",
+          "dureeMois": null,
+          "montant": "651108.04",
+          "titulaires": [],
+          "dateSignatureModification": "2021-08-03"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "MENUISERIE INTERIEURE BOIS ",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "14",
+      "dateNotification": "2019-05-17",
+      "datePublicationDonnees": "2019-05-23",
+      "montant": "180830.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "49424089800036",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "DELEPIERRE"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "- ajout d'un meuble dans le restaurant scolaire\n- adaptations du chantier",
+          "datePublicationDonneesModification": "2021-04-14",
+          "dureeMois": null,
+          "montant": "184490.88",
+          "titulaires": [],
+          "dateSignatureModification": "2021-04-14"
+        }
+      ]
+    },
+    {
+      "id": "201920193200003",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Eclairage",
+      "codeCPV": "45112711",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "3",
+      "dateNotification": "2020-02-06",
+      "datePublicationDonnees": "2020-02-17",
+      "montant": "109900.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "97120154600241",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SATELEC"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Remplacement spots, modification équipement borne foraine, modification réseau basse tension ",
+          "datePublicationDonneesModification": "2020-11-17",
+          "dureeMois": "3",
+          "montant": "128283.00",
+          "titulaires": [
+            {
+              "id": "97120154600241",
+              "typeIdentifiant": "SIRET",
+              "denominationSociale": "SATELEC"
+            }
+          ],
+          "dateSignatureModification": "2020-11-17"
+        }
+      ]
+    },
+    {
+      "id": "201920193000002",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Distribution toutes boîtes des supports de communication",
+      "codeCPV": "79810000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2020-01-30",
+      "datePublicationDonnees": "2020-02-17",
+      "montant": "50000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "31554935203660",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ADREXO"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "REFECTION DE LA COUVERTURE/ISOLATION/SECURITE",
+      "codeCPV": "45261210",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-06-27",
+      "datePublicationDonnees": "2019-07-02",
+      "montant": "48489.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "78378957100032",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ETABLISSEMENTS RENE DELPORTE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Démolition, maçonnerie",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "croix",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-06-27",
+      "datePublicationDonnees": "2019-07-01",
+      "montant": "22975.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "40790437400177",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "EIFFAGE CONSTRUCTION NORD PAS DE CALAIS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192019-09 B000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Chaudière pour la salle de la Machellerie ",
+      "codeCPV": "45331110-0",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-06-26",
+      "datePublicationDonnees": "2019-06-27",
+      "montant": "6.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "47678065500033",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "LEFEBVRE ET GENTILHOMME"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019201925000002",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Equipement complet tableau avec vidéoprojecteur tactile courte focale (type VPI), ENI ou TBI",
+      "codeCPV": "30200000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2020-01-28",
+      "datePublicationDonnees": "2020-02-20",
+      "montant": "120000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "47884924300025",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "I-TECH INFORMATIQUE & TECHNOLOGIES"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192018-3000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Acquisition de vêtements de cuisine pour les agents de la Ville de Croix ",
+      "codeCPV": "39560000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2019-02-26",
+      "datePublicationDonnees": "2019-03-27",
+      "montant": "40000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "38834959900067",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "L ECHOPPE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Travaux d'enfouissement des réseaux aériens",
+      "codeCPV": "32400000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": ""
+      },
+      "dureeMois": "4",
+      "dateNotification": "2019-12-30",
+      "datePublicationDonnees": "2020-02-17",
+      "montant": "143450.90",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "97120154600571",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "SATELEC"
+        },
+        {
+          "id": "97120154600241",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "SATELEC"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019bke3k2019000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Restauration scolaire ",
+      "codeCPV": "15800000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-06-13",
+      "datePublicationDonnees": "2019-06-17",
+      "montant": "0.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "47718101000091",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "API RESTAURATION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Mission d'assistance à maîtrise d'ouvrage pour la rénovation intérieure de l'Hôtel de Ville. ",
+      "codeCPV": "71241000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "17",
+      "dateNotification": "2019-06-05",
+      "datePublicationDonnees": "2019-06-06",
+      "montant": "50515.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "42154744900023",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "VERDI CONSEIL NORD DE FRANCE"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Ajout mission de relevé du kiosque",
+          "datePublicationDonneesModification": "2021-07-07",
+          "dureeMois": "2",
+          "montant": "52115.05",
+          "titulaires": [],
+          "dateSignatureModification": "2021-07-07"
+        }
+      ]
+    },
+    {
+      "id": "ps8et0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Achat et installation  d'un orgue numérique pour l'Eglise Saint Martin à Croix ",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59962",
+        "typeCode": "Code Postal",
+        "nom ": ""
+      },
+      "dureeMois": "24",
+      "dateNotification": "2019-10-23",
+      "datePublicationDonnees": "2019-12-05",
+      "montant": "37500.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "44829483500013",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "BEMOL ROUBAIX MUSIC"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Entretien et nettoyage de 42 bâtiments communaux",
+      "codeCPV": "90911200",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "",
+        "typeCode": "",
+        "nom ": ""
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-01-30",
+      "datePublicationDonnees": "2020-02-04",
+      "montant": "800000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "35388884500123",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "SARL AGENOR"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192018-28D0001",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Peinture sol souple",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "1",
+      "dateNotification": "2019-03-26",
+      "datePublicationDonnees": "2019-03-27",
+      "montant": "43507.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "88698092900055",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ENTREPRISE JEAN VANDENDRIESSCHE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192018-28A0000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "gros oeuvre étendu",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-03-22",
+      "datePublicationDonnees": "2019-03-27",
+      "montant": "210123.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "88558003500024",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SAS DECOTTEGNIE"
+        },
+        {
+          "id": "35097257600044",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "PLAFONDS SERVICES EURL"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019201903D00000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Portage de repas à domicile ",
+      "codeCPV": "55521100",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "croix",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-06-13",
+      "datePublicationDonnees": "2019-06-17",
+      "montant": "0.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "47718101000091",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "API RESTAURATION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019201903G00000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Produits de viennoiserie, pains et coquilles de Noël ",
+      "codeCPV": "15811300",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "croix",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-06-13",
+      "datePublicationDonnees": "2019-06-17",
+      "montant": "0.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "47718101000091",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "API RESTAURATION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019h6vxx0000022",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Mission de maîtrise d'oeuvre relative à l'aménagement de trois espaces publics du quartier Saint Pierre ",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": ""
+      },
+      "dureeMois": "0",
+      "dateNotification": "2019-08-25",
+      "datePublicationDonnees": "2019-08-27",
+      "montant": "25970.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "40444932400031",
+          "typeIdentifiant": "",
+          "denominationSociale": "SG-INGENIERIE"
+        },
+        {
+          "id": "85110334100018",
+          "typeIdentifiant": "",
+          "denominationSociale": "EXTERIEUR ATELIER DE PAYSAGE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192019-0200000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Création de jardins partagés quartier Saint Pierre ",
+      "codeCPV": "45212200",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "1",
+      "dateNotification": "2019-03-04",
+      "datePublicationDonnees": "2019-03-27",
+      "montant": "21595.65",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "38990507600037",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "INOVERT"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "VRD PLANTATIONS",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "6",
+      "dateNotification": "2019-05-17",
+      "datePublicationDonnees": "2019-05-23",
+      "montant": "463086.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "44481882700032",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "STPI"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Travaux en moins-value sur les postes suivants:\n- installations de chantier\n- prestation \"voirie\"\n- fondation des clôtures",
+          "datePublicationDonneesModification": "2019-08-09",
+          "dureeMois": null,
+          "montant": "541259.09",
+          "titulaires": [],
+          "dateSignatureModification": "2019-08-09"
+        },
+        {
+          "objetModification": "Travaux en moins-value sur les postes suivants:\n- installation de chantier\n- réseaux eaux pluviales\n- clôture et abris\n- divers et bancs",
+          "datePublicationDonneesModification": "2020-01-06",
+          "dureeMois": null,
+          "montant": "463086.25",
+          "titulaires": [],
+          "dateSignatureModification": "2020-01-06"
+        },
+        {
+          "objetModification": "Travaux supplémentaires:\n- bordures\n- assainissement",
+          "datePublicationDonneesModification": "2021-07-01",
+          "dureeMois": null,
+          "montant": "473433.87",
+          "titulaires": [],
+          "dateSignatureModification": "2021-06-30"
+        },
+        {
+          "objetModification": "Avenant 4 lot 12 - moins-value:n- travaux des longrines : - 4 300,00€ HTn- travaux du coffrage : - 2 321,37€ HT",
+          "datePublicationDonneesModification": "2021-08-02",
+          "dureeMois": null,
+          "montant": "466812.50",
+          "titulaires": [],
+          "dateSignatureModification": "2021-07-30"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Restructuration et extension du groupe scolaire Jean Zay - lot 3 ",
+      "codeCPV": "",
+      "procedure": "Marché négocié sans publicité ni mise en concurrence préalable",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Ecole Jean Zay"
+      },
+      "dureeMois": "10",
+      "dateNotification": "2019-07-16",
+      "datePublicationDonnees": "2019-07-16",
+      "montant": "296045.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "35409156300016",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SARL DELAHOUSSE"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "travaux de charpente :    3 856,88€ HT",
+          "datePublicationDonneesModification": "2020-05-22",
+          "dureeMois": null,
+          "montant": "299902.01",
+          "titulaires": [
+            {
+              "id": "35409156300016",
+              "typeIdentifiant": "SIRET",
+              "denominationSociale": "SARL DELAHOUSSE"
+            }
+          ],
+          "dateSignatureModification": "2020-05-22"
+        },
+        {
+          "objetModification": "travaux supplémentaires:\n\n- isolation thermique sous-face préau\n- panneaux de délimitation\n",
+          "datePublicationDonneesModification": "2021-04-12",
+          "dureeMois": null,
+          "montant": "315456.20",
+          "titulaires": [],
+          "dateSignatureModification": "2021-04-12"
+        }
+      ]
+    },
+    {
+      "id": "20203ag1q0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Cheminements, mobilier et espaces verts",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "4",
+      "dateNotification": "2020-02-19",
+      "datePublicationDonnees": "2020-05-06",
+      "montant": "449337.75",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "38990507600037",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "INOVERT"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "création de nouveaux prix au BPUF (NP1) suite à l’extraction d’une quantité importante de béton en fondation lors des travaux de démolition du parvis de l’école Lucie Aubrac",
+          "datePublicationDonneesModification": "2020-12-16",
+          "dureeMois": "4",
+          "montant": "451257.75",
+          "titulaires": [
+            {
+              "id": "38990507600037",
+              "typeIdentifiant": "SIRET",
+              "denominationSociale": "INOVERT"
+            }
+          ],
+          "dateSignatureModification": "2020-12-16"
+        }
+      ]
+    },
+    {
+      "id": "2020fmzas0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Transports intra-muros d'enfants et d'adolescents",
+      "codeCPV": "60112000-6",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-07-03",
+      "datePublicationDonnees": "2020-07-08",
+      "montant": "160000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "04705017400029",
+          "typeIdentifiant": "",
+          "denominationSociale": "VOYAGES DUPAS ET LEBEDA"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Bardage métallique ",
+      "codeCPV": "45262522",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-06-04",
+      "datePublicationDonnees": "2019-06-06",
+      "montant": "35637.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "48823291900057",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "EURL MSCM"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "mn7nt0000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Matériel d'entretien des écoles et restauration ",
+      "codeCPV": "39830000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2019-07-15",
+      "datePublicationDonnees": "2019-07-16",
+      "montant": "20000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "44031947300268",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ORAPI HYGIENE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Produits d'entretien homologués pour piscine municipale ",
+      "codeCPV": "39830000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2019-07-15",
+      "datePublicationDonnees": "2019-07-16",
+      "montant": "30000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "44031947300268",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ORAPI HYGIENE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019340000000001",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "divers sites en ville ",
+      "codeCPV": "77310000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-02-26",
+      "datePublicationDonnees": "2020-03-17",
+      "montant": "400000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "33960966101160",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "IDVERDE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192019-280002",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Fourniture et impression de cachets et timbres ",
+      "codeCPV": "30190000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2020-02-18",
+      "datePublicationDonnees": "2020-03-06",
+      "montant": "15000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "37905562700036",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "ATOLL TIMYX"
+        },
+        {
+          "id": "88658057000028",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "PAPETERIES LA VICTOIRE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Statut, Ressources humaines ",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2019-07-26",
+      "datePublicationDonnees": "2019-07-29",
+      "montant": "60000.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "42939154300031",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SARTOR LONQUE SALALO ASSOCIES"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019201904a00000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "GROS OEUVRE CHARPENTE BOIS METAL ",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "9",
+      "dateNotification": "2019-06-28",
+      "datePublicationDonnees": "2019-05-23",
+      "montant": "1532975.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "35327231300019",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ENTREPRISE DUJARDIN"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "travaux supplémentaires:\n- démolition palier\n- ventilation VS cuisine restaurant\n- fosse compteur eau trappe incluse\n- mur de soutènement\n- appui manquant sur façade",
+          "datePublicationDonneesModification": "2021-04-09",
+          "dureeMois": null,
+          "montant": "1552927.16",
+          "titulaires": [],
+          "dateSignatureModification": "2021-04-09"
+        },
+        {
+          "objetModification": "Travaux supplémentaires : reprise de soubassement",
+          "datePublicationDonneesModification": "2021-05-03",
+          "dureeMois": null,
+          "montant": "3962.18",
+          "titulaires": [],
+          "dateSignatureModification": "2021-04-30"
+        },
+        {
+          "objetModification": "Avenant 3 du lot 01 (  11 536,08 euros HT)n- modification du principe de fondation Rue des Ogiersn- Rehausse de la cage d'ascenseurn- Mise à niveau de la salle des enseignantsn- Renforcement structurel d'une jonction poutre / dalle existanten- Bouchementn",
+          "datePublicationDonneesModification": "2021-09-07",
+          "dureeMois": "11",
+          "montant": "1568425.42",
+          "titulaires": [],
+          "dateSignatureModification": "2021-08-05"
+        },
+        {
+          "objetModification": "Prise en compte des frais covid - avenant 4 de 21 395,75€ HT",
+          "datePublicationDonneesModification": "2022-01-21",
+          "dureeMois": null,
+          "montant": "1589821.17",
+          "titulaires": [
+            {
+              "id": "35327231300027",
+              "typeIdentifiant": "SIRET",
+              "denominationSociale": "ENTREPRISE DUJARDIN"
+            }
+          ],
+          "dateSignatureModification": "2021-12-28"
+        }
+      ]
+    },
+    {
+      "id": "201920193000001",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Impression de divers supports de communication",
+      "codeCPV": "79810000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-02-04",
+      "datePublicationDonnees": "2020-02-17",
+      "montant": "400000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "48464495000012",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "IMPRESSION DIRECTE"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Avenant de transfert - nouveau titulaire CISCOM suite à la liquidation de la Société IMPRESSION DIRECTE et de l'acte de cession",
+          "datePublicationDonneesModification": "2021-07-28",
+          "dureeMois": null,
+          "montant": null,
+          "titulaires": [
+            {
+              "id": "43499602100060",
+              "typeIdentifiant": "SIRET",
+              "denominationSociale": "CISCOM"
+            }
+          ],
+          "dateSignatureModification": "2021-07-27"
+        }
+      ]
+    },
+    {
+      "id": "201920193200002",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Espaces verts, mobiliers et jeux",
+      "codeCPV": "45112711",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Hôtel de Ville"
+      },
+      "dureeMois": "24",
+      "dateNotification": "2020-02-06",
+      "datePublicationDonnees": "2020-02-17",
+      "montant": "291034.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "31611247300038",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SOCIETE REGIONALE D'ESPACES VERTS ET D'ENVIRONNEMENT EN ABREGE \"S.O.R.E.V.E.\""
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Avenant 1 modifiant les conditions d'affermissement de la tranche optionnelle",
+          "datePublicationDonneesModification": "2021-07-23",
+          "dureeMois": null,
+          "montant": null,
+          "titulaires": [],
+          "dateSignatureModification": "2021-07-20"
+        }
+      ]
+    },
+    {
+      "id": "2019201904d00000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "MENUISERIES EXTERIEURES SERRURERIE",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "croix",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "6",
+      "dateNotification": "2019-05-17",
+      "datePublicationDonnees": "2019-05-23",
+      "montant": "601260.69",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "32696723900012",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SOCIETE OLIVIER"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "Avenant n°2 : modification du montant pour travaux suppléméntaires",
+          "datePublicationDonneesModification": "2020-09-22",
+          "dureeMois": null,
+          "montant": "602716.69",
+          "titulaires": [],
+          "dateSignatureModification": "2020-06-18"
+        },
+        {
+          "objetModification": "Avenant n°3 : Moins value du pris des travaux",
+          "datePublicationDonneesModification": "2020-09-22",
+          "dureeMois": null,
+          "montant": "601260.69",
+          "titulaires": [],
+          "dateSignatureModification": "2020-09-17"
+        },
+        {
+          "objetModification": "moins-value relatif au montant définitif du remplacement de 3 châssis dans 2 cages d'escalier",
+          "datePublicationDonneesModification": "2020-09-17",
+          "dureeMois": null,
+          "montant": "601260.69",
+          "titulaires": [],
+          "dateSignatureModification": "2020-09-17"
+        },
+        {
+          "objetModification": "travaux supplémentaires:\n- habillage et isolation de la face intérieure de la gaine d'ascenseur\n- équipement d'une ventouse du portillon d'entrée des primaires",
+          "datePublicationDonneesModification": "2021-04-12",
+          "dureeMois": null,
+          "montant": "604432.69",
+          "titulaires": [],
+          "dateSignatureModification": "2021-04-12"
+        },
+        {
+          "objetModification": "Mise en place de la vitrophanie sur l'ascenseur et le totem",
+          "datePublicationDonneesModification": "2021-07-01",
+          "dureeMois": null,
+          "montant": "608382.69",
+          "titulaires": [],
+          "dateSignatureModification": "2021-06-30"
+        }
+      ]
+    },
+    {
+      "id": "0000000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "CARRELAGE SUR MURS ET SOLS",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-05-17",
+      "datePublicationDonnees": "2019-05-23",
+      "montant": "89283.90",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "44177584800035",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "CRI"
+        }
+      ],
+      "modifications": [
+        {
+          "objetModification": "remplacement faïence et carrelage au sol du sanitaire existant",
+          "datePublicationDonneesModification": "2020-10-26",
+          "dureeMois": null,
+          "montant": "88959.06",
+          "titulaires": [],
+          "dateSignatureModification": "2020-04-02"
+        },
+        {
+          "objetModification": "suppression étanchéité sous la faïence dans les locaux ne nécessitant pas un nettoyage à grande eau",
+          "datePublicationDonneesModification": "2020-06-12",
+          "dureeMois": null,
+          "montant": "86673.15",
+          "titulaires": [],
+          "dateSignatureModification": "2020-06-11"
+        },
+        {
+          "objetModification": "remplacement des nez de marche",
+          "datePublicationDonneesModification": "2020-10-27",
+          "dureeMois": null,
+          "montant": "89283.90",
+          "titulaires": [],
+          "dateSignatureModification": "2020-10-26"
+        },
+        {
+          "objetModification": "travaux supplémentaires :\n- cage escalier et ascenseur\n- vide sanitaire cuisine\n- siphons de sol\n- remplacement faïences",
+          "datePublicationDonneesModification": "2021-03-11",
+          "dureeMois": null,
+          "montant": "98662.78",
+          "titulaires": [],
+          "dateSignatureModification": "2021-03-11"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "DESAMIANTAGE ",
+      "codeCPV": "45262660",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-06-27",
+      "datePublicationDonnees": "2019-07-02",
+      "montant": "9.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "34261447600014",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ENTREPRISE VITSE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019201925000001",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Tablettes et ordinateurs portables",
+      "codeCPV": "30200000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2020-01-28",
+      "datePublicationDonnees": "2020-02-20",
+      "montant": "90000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "47884924300025",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "I-TECH INFORMATIQUE & TECHNOLOGIES"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Entretien des arbres d'alignement ",
+      "codeCPV": "77340000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-07-05",
+      "datePublicationDonnees": "2019-07-08",
+      "montant": "31000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "38747285500023",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "PERILHON ELAGAGE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192018-33B0000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Lot 2 – Linge en forme ",
+      "codeCPV": "19231000",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "36",
+      "dateNotification": "2019-02-28",
+      "datePublicationDonnees": "2019-03-27",
+      "montant": "105000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "69300109100091810330",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": ""
+        },
+        {
+          "id": "69300109100091810330",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": ""
+        },
+        {
+          "id": "69300109100091810330",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": ""
+        },
+        {
+          "id": "88558103300184",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "REGIONALE LOCATION ET SERVICES TEXTILE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Remplacement d'un ascenseur existant par un ascenseur neuf ",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "8",
+      "dateNotification": "2019-06-27",
+      "datePublicationDonnees": "2019-07-01",
+      "montant": "66950.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "54210780001137",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "OTIS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192019-09 A000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Chaudières pour l'école Jean Lebas ",
+      "codeCPV": "45331110-0",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-06-26",
+      "datePublicationDonnees": "2019-06-27",
+      "montant": "39352.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "47678065500033",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "LEFEBVRE ET GENTILHOMME"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Location et maintenance de séchoirs à main sur 43 bâtiments communaux",
+      "codeCPV": "90911200",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "",
+        "typeCode": "",
+        "nom ": ""
+      },
+      "dureeMois": "48",
+      "dateNotification": "2020-01-30",
+      "datePublicationDonnees": "2020-02-04",
+      "montant": "60000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "35388884500123",
+          "typeIdentifiant": "siret",
+          "denominationSociale": "SARL AGENOR"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "0000000000000000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Aménagement du terrain multisport",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "3",
+      "dateNotification": "2019-11-12",
+      "datePublicationDonnees": "2019-11-18",
+      "montant": "143895.39",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "31611247300038",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SOCIETE REGIONALE D'ESPACES VERTS ET D'ENVIRONNEMENT EN ABREGE \"S.O.R.E.V.E.\""
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019201903C00000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Restauration pour le Foyer logement Van Gogh ",
+      "codeCPV": "39222000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "croix",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-06-13",
+      "datePublicationDonnees": "2019-06-17",
+      "montant": "0.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "47718101000091",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "API RESTAURATION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "RÉFECTION DES FAUX PLAFONDS DE DEUX SALLES, SALLE DES FÊTES  DEDECKER à CROIX ",
+      "codeCPV": "",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "CROIX"
+      },
+      "dureeMois": "3",
+      "dateNotification": "2019-11-14",
+      "datePublicationDonnees": "2020-01-03",
+      "montant": "42095.00",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "35097257600036",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "PLAFONDS SERVICES EURL"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2019201903F00000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Produits vrac ",
+      "codeCPV": "15890000",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "croix",
+        "typeCode": "Code Postal",
+        "nom ": "croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-06-13",
+      "datePublicationDonnees": "2019-06-17",
+      "montant": "0.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "47718101000091",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "API RESTAURATION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192018-28C0000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Electricité ",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "2",
+      "dateNotification": "2019-03-22",
+      "datePublicationDonnees": "2019-03-27",
+      "montant": "27000.70",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "41148418100036",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "SARL ELECTRO"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192018-28F0000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "marché",
+      "objet": "Isolation par soufflage ",
+      "codeCPV": "45214210",
+      "procedure": "Appel d offres ouvert",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "1",
+      "dateNotification": "2019-03-22",
+      "datePublicationDonnees": "2019-03-27",
+      "montant": "2633.20",
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "id": "34880800700044",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ISOWECK"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20192018-3100000",
+      "acheteur": {
+        "id": "21590163800019",
+        "nom": "Ville de Croix (59)"
+      },
+      "nature": "Accord-cadre",
+      "objet": "Travaux d'entretien et de réparation des toitures des bâtiments communaux ",
+      "codeCPV": "45261210",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59170",
+        "typeCode": "Code Postal",
+        "nom ": "Croix"
+      },
+      "dureeMois": "48",
+      "dateNotification": "2019-02-19",
+      "datePublicationDonnees": "2019-03-27",
+      "montant": "120000.00",
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "id": "78378957100032",
+          "typeIdentifiant": "Siret",
+          "denominationSociale": "ETABLISSEMENTS RENE DELPORTE"
+        }
+      ],
+      "modifications": []
+    }
+  ]
+}
