@@ -3,7 +3,7 @@
 import argparse
 import json
 from pathlib import Path
-from typing import Dict
+from typing import Dict, Optional
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
@@ -42,7 +42,7 @@ FORM_DATA = {
 }
 
 
-def download_json_from_results_page(html_page):
+def download_json_from_results_page(html_page: str):
     """Télécharge les DECP au format JSON dans une page de résultats.
 
     Renvoie une liste de DECP au format JSON.
@@ -87,8 +87,10 @@ def download_json_from_results_page(html_page):
     return json_entries
 
 
-def get_next_page(html_page):
+def get_next_page(html_page: str) -> Optional[str]:
     """Extrait l'URL de la page de résultats suivante.
+
+    Renvoie None s'il n'y a pas de page suivante.
 
     Parameters
     ----------
@@ -97,7 +99,7 @@ def get_next_page(html_page):
 
     Returns
     -------
-    next_page: str
+    next_page: str or None
         URL de la page de résultats (HTML) suivante.
     """
     r_soup = BeautifulSoup(html_page, "html.parser")
@@ -117,12 +119,17 @@ def scrape_decp(args_data: Dict[str, str]):
     """Récupère les DECP depuis marches-securises.
 
     Une requête est définie par un SIRET acheteur et des dates de début et fin.
-    Les résultats sont stockés dans un fichier.
+    Les résultats sont une liste d'entrées DECP au format JSON.
 
     Parameters
     ----------
     args_data: Dict[str, str]
         Paramètres de la requête: SIRET et dates de début et fin.
+
+    Returns
+    -------
+    json_entries: List[JSON_DECP]
+        Liste d'entrées DECP au format JSON.
     """
     # liste de stockage des résultats
     json_entries = []
